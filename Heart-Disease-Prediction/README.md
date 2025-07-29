@@ -60,14 +60,6 @@ heart-disease-prediction/
 
 ---
 
-## 🧑‍💻 Developed By
-
-**Tadicharla Chandini**  
-B.Tech in AI & Data Science  
-[LinkedIn 🔗](https://www.linkedin.com/in/chandini-tadicharla-5952022a6/)  
-[GitHub 🔗](https://github.com/TadicharlaChandini)  
-
----
 
 ## 📦 Installation (Local Setup)
 
@@ -83,7 +75,4 @@ The project can be deployed on platforms like Render or Heroku for free public a
 📜 License
 This project is open-source and free to use for academic and personal purposes.
 
-Feel free to reach out for questions or collaboration!
-Email: tadicharlachandini@gmail.com
-GitHub: https://github.com/TadicharlaChandini
-LinkedIn: https://www.linkedin.com/in/chandini-tadicharla-5952022a6/
+
