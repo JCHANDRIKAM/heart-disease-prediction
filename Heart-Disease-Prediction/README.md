@@ -64,7 +64,7 @@ heart-disease-prediction/
 ## 📦 Installation (Local Setup)
 
 ```bash
-git clone https://github.com/TadicharlaChandini/heart-disease-prediction.git
+git clone https://github.com/JCHANDRIKAM/heart-disease-prediction.git
 cd heart-disease-prediction
 pip install -r requirements.txt
 python app.py
